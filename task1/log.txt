@@ -1,0 +1,11 @@
+commit 98e20e60239ccbbbd7886bacdc9b84f3abe14a01
+Author: Anastasia <anastasiameoww@gmail.com>
+Date:   Wed Feb 1 13:06:50 2017 +0300
+
+    add status.txt
+
+commit 8d79818884d34b5e7b01c5b1098879a6bd6bb9a9
+Author: Anastasia <anastasiameoww@gmail.com>
+Date:   Wed Feb 1 12:59:59 2017 +0300
+
+    add .gitignore
